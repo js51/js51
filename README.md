@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I mainly use GitHub for code related to my PhD, but there's also some stuff from honours/undergrad as well as some projects I work on in my free time.
-
 <!--
 **js51/js51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
