@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm a PhD student at the University of Tasmania. Some of my research involves writing code (usually in python).
 
