@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student at the University of Tasmania.
+I'm a PhD student at the University of Tasmania. Some of my research involves writing code (usually in python).
 
 <!--
 **js51/js51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
